@@ -79,4 +79,4 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
-<img src="https://imgur.com/a/rO2OBzO"><br>
+<img src="calories_wireframe.png"><br>
