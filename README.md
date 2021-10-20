@@ -81,3 +81,14 @@ Optional:
 ## Wireframes
 <img src="handwire.png"><br>
 <img src="calories_wireframe.png"><br>
+
+## Schema
+Models
+Food String dictionary associated with int for calories
+total calories int
+daily calories limit int
+
+Networking
+Not necessary for required
+
+
