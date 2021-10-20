@@ -79,4 +79,5 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
+<img src="handwire.png"><br>
 <img src="calories_wireframe.png"><br>
