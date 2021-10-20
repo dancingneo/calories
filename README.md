@@ -84,11 +84,11 @@ Optional:
 
 ## Schema
 Models
-Food String dictionary associated with int for calories
-total calories int
-daily calories limit int
+* Food String dictionary associated with int for calories
+* total calories int
+* daily calories limit int
 
 Networking
-Not necessary for required
+* Not necessary for required
 
 
